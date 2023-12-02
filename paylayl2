@@ -1,0 +1,70 @@
+<html>
+    <title>Pay Lay</title>
+    <style>
+        body{background-color:#AFEEEE}
+        h1{text-align: center}
+        h2{text-align: center}
+        h3{text-align: center}
+        table, tr, td{border: 1px solid black}
+        body {font-family:Andale Mono, monospace}
+        #color{
+            background-color:#7FFFD4;
+        }
+        #other{background-color:#00FA9A}
+        #color{font-family:Bradley Hand, cursive}
+        #time{font-family:URW Chancery L, cursive}
+        a{color:#FFFAFA}
+    </style>
+    <body>
+    <header>
+        
+        <main id="other">
+        <a href="#company">Компания</a>
+        <a href="#services">Сервис</a>
+        <a href="#about">О нас</a>
+        <a href="#color">Подвал с детьми</a>
+
+        </main>
+    </header>
+                        <h1>Клининговая компании PayLay</h1>
+        <main id="company">
+        <p>Клининговая компания «Pay Lay» – это квалифицированные клинеры с опытом клининга от одной недели различных помещений. Работы выполняются под руководством бригадира и контролем технолога. Наших работников узнаете по фирменной спец. форме и брендированному микроавтобусу.</p>
+        <p>Клининговая компания "Pay Lay" предлагает жителям и предприятиям города и края профессиональные клининговые услуги с гарантией качества.
+</p>
+
+        </main>
+        <main id="time">
+        <h2 id="services">Можете заказать услуги клининга:</h2>
+        </main>
+        <main>
+            <table>
+                <tr>
+            <td><p>Уборку комнаты<img src="https://ibb.co/642g77Y"></p></td>
+            <td><p>Мытьё полов в комнате<img src="https://ibb.co/tzwwfHr"></p></td>
+            <td><p>Сбор и вынос всего мусора<img src="https://ibb.co/6WwBrWV"></p></td>
+            <td><p>Мытьё посуды<img src="https://ibb.co/HGqgdM7"</p></td>
+            <td><p>Уборка всего дома/квартиры<img src="https://ibb.co/6HTLhc9"></p></td>
+                </tr>
+                <tr>
+            <td><p>1 кв метр 200р</p></td>
+            <td><p>1 кв метр 100р</p></td>
+            <td><p>500р</p></td>
+            <td><p>1 тарелка 50р</p></td>
+            <td><p>от 5к</p></td>    
+                </tr>
+            </table>
+        </main>
+        <main id="about">     
+            <h3>О нас</h3>
+            <p>Клининг профессионально, качественно, аккуратно</p>   
+            <p>Именно поэтому наша клининговая компания в Краснодаре является лидером в своей сфере. Вы можете обратиться к нам, если вам нужна химчистка мягкой мебели, уборка квартиры и дома, или например уборка гостинницы. Мойку окон в жилых помещениях также всегда проводим на пять с плюсом, стекла остаются идеально чистыми, а хозяева очень довольными. Готовы выполнить любое задание, начиная от частичной уборки офиса и заканчивая ликвидацией всевозможных загрязнений в квартире по завершению ремонтных работ.</p>
+            </main>
+            <main id="color">
+            <h4>Подвал</h4>
+            <tr>
+                <td><p>+7 938 103 76 39</p></td>
+                <td><p>г.Чебокрасы. Улица Российская </p></td>
+            </tr>
+        </main>
+    </body>
+</html>
